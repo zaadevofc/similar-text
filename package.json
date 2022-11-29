@@ -1,0 +1,28 @@
+{
+    "name": "@zaadevofc/similar-text",
+    "version": "1.0.0",
+    "description": "@zaadevofc/similar-text",
+    "main": "index.js",
+    "private": false,
+    "scripts": {
+        "test": "node example.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zaadevofc/similar-text.git"
+    },
+    "keywords": [
+        "similar",
+        "text",
+        "query",
+        "similar-text",
+        "nodejs"
+    ],
+    "author": "zaadevofc",
+    "license": "Apache",
+    "bugs": {
+        "url": "https://github.com/zaadevofc/similar-text/issues"
+    },
+    "homepage": "https://github.com/zaadevofc/similar-text#readme",
+    "dependencies": {}
+}
